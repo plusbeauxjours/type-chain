@@ -4,10 +4,12 @@
     ],
     "compilerOptions": {
         "outDir": "build",
+        "esModuleInterop": true,
         "target": "ES6",
         "lib": [
             "ES6",
             "dom"
-        ]
+        ],
+        "strict": true
     }
 }
