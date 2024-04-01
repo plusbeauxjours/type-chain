@@ -10,6 +10,7 @@
             "ES6",
             "dom"
         ],
-        "strict": true
+        "strict": true,
+        "allowJs": true
     }
 }
